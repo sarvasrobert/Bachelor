@@ -13,9 +13,9 @@
 
 **Screens:**
 
-![1](https://github.com/sarvasrobert/Bachelor/pics/blob/master/1.png?raw=true)
+![1](https://github.com/sarvasrobert/Bachelor/blob/master/pics/1.png?raw=true)
 
-![2](https://github.com/sarvasrobert/Bachelor/pics/blob/master/2.png?raw=true)
+![2](https://github.com/sarvasrobert/Bachelor/blob/master/pics/2.png?raw=true)
 	
 ![3](https://github.com/sarvasrobert/Bachelor/pics/blob/master/3.png?raw=true)
 
