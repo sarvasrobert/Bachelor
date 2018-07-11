@@ -3,11 +3,13 @@
 
 ## Bachelor thesis - Version 1.0
 
--Implemented in HTML, CSS, WEBGL, GLSL..
+-Implemented in HTML, CSS, Javascript, WEBGL, GLSL..
 
 **Description:**
 
 *My Bachelor thesis aim to create real-time reandering of 3D scene by path-tracing algorithm in web browser.*
+
+I use Evan Wallace WebGL path-tracing algorithm as template and adjust and implement features to this app.
 
 
 
