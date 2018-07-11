@@ -1,0 +1,14 @@
+<script type="x-shader/x-vertex" id="vs">
+void main() {
+ 	attribute vec3 vertex;
+ 	attribute vec3 a_positionX;
+ 	attribute vec3 a_positionY;
+ 	attribute vec3 a_positionZ;
+ 	varying vec2 a_texcoordX;
+ 	varying vec2 a_texcoordY;
+ 	varying vec2 a_texcoordZ;
+ 	varying vec2 texCoord;
+   	texCoord = vertex.xy * 0.5 + 0.5;
+   	gl_Position = vec4(vertex, 1.0);
+}
+</script>

@@ -1,0 +1,15 @@
+<script type="x-shader/x-vertex" id="vs">
+void main()
+{
+var renderFragmentSource =
+' precision highp float;' +
+' varying vec2 a_texcoordX;' +
+' varying vec2 a_texcoordY;' +
+' varying vec2 a_texcoordZ;' + 
+' varying vec2 texCoord;' +
+' uniform sampler2D texture;' +
+' void main() {' +
+'   gl_FragColor = texture2D(texture, texCoord);' +
+' }';
+}
+</script>
